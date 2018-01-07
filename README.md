@@ -6,7 +6,7 @@ Code and documentation for JHU R Getting and Cleaning Data Project
 ### Overview
 This project aims to import, combine, and clean data for downstream anaysis.  
 
-[The zip file with data data for this project can be found at the following link.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+[The zip file with data data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ### Project Directives
 1. Merge the training and the test sets to create one data set.
